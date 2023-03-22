@@ -1,2 +1,4 @@
 .idea/workspace.xml
 *.pyc
+# Dependency directories
+node_modules/
